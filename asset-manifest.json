@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bipanjeet_gill/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/bipanjeet_gill/static/js/main.cef7543f.chunk.js",
+    "main.js.map": "/bipanjeet_gill/static/js/main.cef7543f.chunk.js.map",
+    "runtime-main.js": "/bipanjeet_gill/static/js/runtime-main.bd0692ef.js",
+    "runtime-main.js.map": "/bipanjeet_gill/static/js/runtime-main.bd0692ef.js.map",
+    "static/js/2.71b7aa12.chunk.js": "/bipanjeet_gill/static/js/2.71b7aa12.chunk.js",
+    "static/js/2.71b7aa12.chunk.js.map": "/bipanjeet_gill/static/js/2.71b7aa12.chunk.js.map",
+    "static/js/3.0239dc72.chunk.js": "/bipanjeet_gill/static/js/3.0239dc72.chunk.js",
+    "static/js/3.0239dc72.chunk.js.map": "/bipanjeet_gill/static/js/3.0239dc72.chunk.js.map",
+    "index.html": "/bipanjeet_gill/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/bipanjeet_gill/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.71b7aa12.chunk.js.LICENSE.txt": "/bipanjeet_gill/static/js/2.71b7aa12.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bipanjeet_gill/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd0692ef.js",
+    "static/js/2.71b7aa12.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.cef7543f.chunk.js"
+  ]
+}
