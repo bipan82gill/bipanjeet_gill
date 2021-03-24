@@ -1,10 +1,11 @@
 import React,{useState} from 'react'
-import {Button} from './Button';
+import Button from './Button';
 import './Navbar.css';
 import Dropdown from './Dropdown';
 import {Link} from 'react-router-dom';
 function Navbar() {
     const [click, setClick]= useState(false);
+    const [dropdown, setDropdown] = useState(false);
 
     const handleClick = () => setClick(!click);
 
@@ -30,16 +31,17 @@ function Navbar() {
                 {dropdown && <Dropdown/>}
             </li>
             <li className='nav-item'>
-                <Link to="/" className="nav-links" onClick={closeMobileMenu}>
-                Home
+                <Link to="/contact-us" className="nav-links" onClick={closeMobileMenu}>
+                Conatct Us 
                 </Link>
             </li>
             <li className='nav-item'>
-                <Link to="/" className="nav-links" onClick={closeMobileMenu}>
-                Home
+                <Link to="/sign-up" className="nav-links-mobile" onClick={closeMobileMenu}>
+                Sign Up
                 </Link>
             </li>
             </ul>
+            <Button/>
         </nav>
     )
 }
